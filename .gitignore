@@ -1,0 +1,11 @@
+# Default ignored files
+.idea/
+/shelf/
+/workspace.xml
+*.xls;xlsx;csv
+*.db3
+*.txt
+*.xml
+.idea/sonarlint/
+.idea/sonarlint/issuestore/
+*.iml

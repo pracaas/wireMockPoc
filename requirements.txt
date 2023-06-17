@@ -1,0 +1,5 @@
+requests~=2.31.0
+httpretty~=1.1.4
+fastapi~=0.97.0
+pydantic~=1.10.9
+chaoswm~=0.2.1

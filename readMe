@@ -1,0 +1,4 @@
+Install uvicorn pacakage
+
+Run App to expose endpoint
+uvicorn main:app --reload
